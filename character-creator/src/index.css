@@ -16,14 +16,6 @@ body {
   box-sizing: border-box;
 }
 
-div.bar {
-  height: 40%;
-  width: 100%;
-  background-color: hsl(195deg, 20%, 86%);
-  position: fixed;
-  bottom: 0;
-}
-
 /*
   A utility class to totally remove something from the screen,
   while still keeping it available for screen-readers.
